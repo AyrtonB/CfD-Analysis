@@ -1,0 +1,43 @@
+﻿Project Name,Developer,Technology Type,"Capacity
+(MW)",Strike Price (£/MWh),Year Start,Year End,Round,Homes Powered,Region
+BHEG Walsall,BH EnergyGap (Walsall) Ltd,Advanced Conversion Technologies,26,114.39,2018,2019,1,,
+Energy Works (Hull),Energy Works (Hull) Limited,Advanced Conversion Technologies,25,119.89,2017,2018,1,,
+Enviroparks Hirwaun Generation Site,Enviroparks Operations Ltd,Advanced Conversion Technologies,11,119.89,2017,2018,1,,
+Wren Power and Pulp,Gent Fairhead & Co. Ltd,Energy from Waste with CHP,49.75,80,2018,2019,1,,
+K3 CHP Facility,K3CHP Ltd,Energy from Waste with CHP,45,80,2018,2019,1,,
+EA 1,"Scottishpower Renewables (UK)
+Limited",Offshore Wind,714,119.89,2017,2018,1,,
+Neart na Gaoithe,Neart na Gaoithe Offshore Wind Limited,Offshore Wind,448,114.39,2018,2019,1,,
+Dorenell Wind Farm,Dorenell Limited,Onshore Wind,177,82.5,2018,2019,1,,
+Kype Muir Wind Farm,Banks Renewables (Kype Muir Wind Farm) Limited,Onshore Wind,104,82.5,2018,2019,1,,
+Clocaenog Forest Wind Farm,RWE Innogy UK Limited,Onshore Wind,96,82.5,2018,2019,1,,
+Middle Muir Wind Farm,Banks Renewables (Middle Muir Wind Farm) Limited,Onshore Wind,60,82.5,2018,2019,1,,
+Brenig Wind Farm - Brenig Wind,Brenig Wind Limited,Onshore Wind,45,79.23,2016,2017,1,,
+Drakelow Renewable Energy Centre,Future Earth Energy (Drakelow) Limited,Advanced Conversion Technologies,15,74.75,2021,2022,2,"27,190",England
+Station Yard CFD 1,DC2 Engineering Ltd,Advanced Conversion Technologies,0.05,74.75,2021,2022,2,90,Wales
+Northacre Renewable Energy Centre,Northacre Renewable Energy Limited,Advanced Conversion Technologies,25.5,74.75,2021,2022,2,"46,220",England
+IPIF Fort Industrial REC,Legal and General Prop Partners (Ind Fund) Ltd,Advanced Conversion Technologies,10.2,74.75,2021,2022,2,"18,490",England
+Blackbridge TGS 1 Limited,Think Greenergy TOPCO Limited,Advanced Conversion Technologies,5.56,74.75,2021,2022,2,"10,080",England
+Redruth EfW,Redruth EFW Limited,Advanced Conversion Technologies,8,40,2022,2023,2,"14,500",England
+"Grangemouth
+Renewable Energy Plant","Grangemouth
+Renewable Energy Limited",Dedicated Biomass with CHP,85,74.75,2021,2022,2,"148,880",Scotland
+Rebellion,Rebellion Biomass LLP,Dedicated Biomass with CHP,0.64,74.75,2021,2022,2,"1,120",England
+"Triton Knoll Offshore
+Wind Farm","Triton Knoll Offshore
+Wind Farm Limited",Offshore Wind,860,74.75,2021,2021,2,"893,690",England
+Hornsea Project 2,Breesea Limited,Offshore Wind,"1,386.00",57.5,2022,2032,2,"1,440,300",England
+Moray Offshore Windfarm (East),"Moray Offshore Windfarm (East)
+Limited",Offshore Wind,950,57.5,2022,2033,2,"987,220",Scotland
+Bulwell Energy Limited,Bulwell Energy Limited,Advanced Conversion Technologies,27.5,39.65,2023,2024,3,"50,980",England
+Small Heath Bio Power Limited,Small Heath Bio Power Limited,Advanced Conversion Technologies,6.1,41.611,2024,2025,3,"11,310",England
+Costa Head Wind Farm,Costa Head Wind Farm Limited,Remote Island Wind,16.32,39.65,2023,2024,3,"15,750",Scotland
+Druim Leathann Windfarm Limited,Druim Leathann Windfarm Limited,Remote Island Wind,49.5,41.611,2024,2025,3,"47,760",Scotland
+Hesta Head Wind Farm,Hesta Head Wind Farm Limited,Remote Island Wind,20.4,39.65,2023,2024,3,"19,680",Scotland
+Muaitheabhal Wind Farm,Uisenis Power Limited,Remote Island Wind,189,39.65,2023,2024,3,"182,340",Scotland
+Doggerbank Creyke Beck A P1,DoggerbankOffshoreWindFarm Project1ProjcoLimited,Offshore Wind,1200,39.65,2023,2041,3,"1,505,330",England
+Doggerbank Creyke Beck B P1,DoggerbankOffshoreWindFarm Project2ProjcoLimited,Offshore Wind,1200,41.611,2024,2051,3,"1,505,330",England
+Doggerbank Teeside A P1,DoggerbankOffshoreWindFarm Project3ProjcoLimited,Offshore Wind,1200,41.611,2024,2051,3,"1,505,330",England
+Forthwind,Forthwind Limited,Offshore Wind,12,39.65,2023,2024,3,"15,050",Scotland
+Seagreen Phase 1,Seagreen Wind Energy Limited,Offshore Wind,454,41.611,2024,2051,3,"569,520",Scotland
+Sofia Offshore Wind Farm Phase 1,Sofia Offshore Wind Farm Limited,Offshore Wind,1400,39.65,2023,2041,3,"1,756,220",England
